@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ollie-Mottram
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Computer Science via CS50 and then progressing on to more specific learning paths, more than likely a deep delve in to Python
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on anything that'll progress my learning and is beginner friendly
 - 📫 You can reach me via GitHub
 
