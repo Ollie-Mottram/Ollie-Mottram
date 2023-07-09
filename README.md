@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ollie-Mottram
-- 👀 I’m interested in becoming a full stack developer
+- 👀 I’m interested in becoming a Full Stack Developer
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on anything that'll progress my learning
 - 📫 You can reach me via GitHub and Instagram, @the_bearded_dev
